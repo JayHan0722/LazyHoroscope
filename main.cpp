@@ -18,7 +18,7 @@ int main()
   cin>>Last;
 
   //tell fortune
-  cout<<"Welcome, "<<First[0]<<Last[0]<<", here is your fourtune..."<<endl;
+  cout<<"Welcome, "<<First[0]<<"."<<Last[0]<<"."<<", here is your fourtune..."<<endl;
   cout<<"Your lucky number is "<<First.length()<<endl;
 
 
