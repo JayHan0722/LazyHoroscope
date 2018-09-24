@@ -24,7 +24,7 @@ int main()
   if(First[0] == 'a' || First[0] == 'e' || First[0] == 'i' || First[0] == 'o' || First[0] == 'u' ||
      First[0] == 'A' || First[0] == 'E' || First[0] == 'I' || First[0] == 'O' || First[0] == 'U')
   {
-          cout<<"you are destined to be famous."<<endl;
+          cout<<"you are destined to be famous!"<<endl;
   }
 
   else
