@@ -11,14 +11,14 @@ int main()
   string Last;
 
   //get user input
-  cout<<"What is your First name?"<<endl;
+  cout<<"What is your first name?"<<endl;
   cin>>First;
 
-  cout<<"What is your Last Name?"<<endl;
+  cout<<"What is your last Name?"<<endl;
   cin>>Last;
 
   //tell fortune
-  cout<<"Welcome, "<<First[0]<<"."<<Last[0]<<"."<<", here is your fourtune..."<<endl;
+  cout<<"Welcome, "<<First[0]<<"."<<Last[0]<<"."<<", here is your fortune..."<<endl;
   cout<<"Your lucky number is "<<First.length()<<endl;
 
   if(First[0] == 'a' || First[0] == 'e' || First[0] == 'i' || First[0] == 'o' || First[0] == 'u' ||
@@ -38,7 +38,7 @@ int main()
   if(LL == 'a' || LL == 'e' || LL == 'i' || LL == 'o' || LL == 'u' ||
      LL == 'A' || LL == 'E' || LL == 'I' || LL == 'O' || LL == 'U')
   {
-          cout<<"You have already met your ture love."<<endl;
+          cout<<"You have already met your true love."<<endl;
   }
 
   cout<<"Have a good day!"<<endl;
